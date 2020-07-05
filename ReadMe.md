@@ -13,3 +13,7 @@ cargo install cargo-watch
 ```
 cargo watch -x run
 ```
+
+## API
+Open the url in browser
+http://localhost:8000/
